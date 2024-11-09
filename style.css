@@ -1,0 +1,82 @@
+* {
+    border: border-box;
+}
+
+.green-line {
+    background-color: rgb(67, 224, 67);
+    height: 5px;
+    margin-top: 75px;
+}
+
+.gateway {
+    margin-right: 100px;
+    margin-left: 150px;
+    padding-bottom: 10px;
+}
+
+.gap-1{
+    padding-top: 50px;
+}
+
+.gap-2{
+    padding-top: 80px;
+}
+
+.gap-3{
+    padding-top: 40px;
+}
+
+.gap-4{
+    padding-top: 30px;
+}
+
+
+.gateway-1 {
+    margin: 100px 100px 20px 150px;
+}
+
+.gateway-btn {
+    margin: 10px 100px 50px 150px;
+}
+
+.banner-img {
+    width: 450px;
+    height: 450px;
+
+}
+
+.mobile2{
+    background-image:url(images/mobile2.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    height: 450px;
+    padding-right: 53%;
+}
+
+.money{
+    margin-top:150px;
+}
+
+.Williamsom{
+    margin-top: -30px;
+    margin-left: 70px;
+}
+
+.Financial{
+    background: linear-gradient(to right, green ,rgb(6, 196, 6) );
+
+}
+
+.Login{
+    margin-top: 70px;
+}
+
+.login-container{
+    background-image: url(images/banner-new.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+}
